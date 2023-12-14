@@ -5,13 +5,13 @@
 
 1、将自己Github的对外用户名改为自己姓名的拼音，便于识别
 
-  <img src="./img/example.png">
+   <img src="./img/example.png" width="600">
 
 # 2、创建团队内仓库
 
 - 进入IoT组织--->点击Repositorie-->点击New Repositories
 
-    <img src="./img/流程0.png">
+    <img src="./img/流程0.png" width="600">
 
 - 输入新建仓库的参数信息，
    - 仓库名："团队英文名简称-个人姓名拼音"<br>
@@ -27,18 +27,18 @@
 
 - 进入IoT组织--->点击Teams--->点击个人所在的团队
 
-    <img src="./img/流程1.png">
+    <img src="./img/流程1.png" width="600">
 
 - 点击Repositories
 
-    <img src="./img/流程2.png">
+    <img src="./img/流程2.png" width="600">
 
 - 将组织仓库添加到团队内
 
-    <img src="./img/流程3.png">
+    <img src="./img/流程3.png" width="600">
 
 - 完成示例
-    <img src="./img/完成示例.png">
+    <img src="./img/完成示例.png" width="600">
 
 # 3、维护仓库
 
@@ -54,11 +54,11 @@
   #使用仓库的url克隆仓库，url通过下图方式获取
   git clone repository_url
   ```
-  <img src="./img/http_url.png">
+  <img src="./img/http_url.png" width="600">
 
    成功示例
 
-  <img src="./img/clone示例.png">
+  <img src="./img/clone示例.png" width="600">
 
 - 开始工作
 
@@ -74,7 +74,7 @@
   ```
   成功示例
 
-  <img src="./img/进入仓库.png">
+  <img src="./img/进入仓库.png" width="600">
 
 - 更新仓库
 
