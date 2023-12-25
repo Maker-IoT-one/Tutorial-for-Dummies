@@ -15,7 +15,14 @@
 
 - 输入新建仓库的参数信息，
    - 仓库名："团队英文名简称-个人姓名拼音"<br>
-   - 仓库简介："团队中文名-个人中文姓名"
+   - 仓库简介："日期-团队英文名简称-个人中文姓名-开发模块"
+      - SCT:Smart Carbon Technology(智碳科技团队)
+      - AVP:Audio-visual pigs on the cloud(视听云上猪团队)
+      - AD:AuNPs Detection(纳米金检测团队)
+      - CSR:Cervical Spondylopathy Recovery(颈康复团队)
+      - DAS:Depression assessment and screening(抑郁评估团队)
+      - PAS:Parkinson's Assessment and Screening (抗帕助手团队)
+      - VD:Virtual doctors(虚拟术士团队)
    - 点击 "Public"（公开仓库）
    - 点击 "Add a README file"（创建仓库介绍文件）
    - Creat repository (创建仓库)
@@ -25,7 +32,7 @@
        <img src="./img/创建仓库参数填写示例.png">
 
 
-- 进入IoT组织--->点击Teams--->点击个人所在的团队
+- 进入Github---->进入IoT组织--->点击Teams--->点击个人所在的团队
 
     <img src="./img/流程1.png" width="600">
 
