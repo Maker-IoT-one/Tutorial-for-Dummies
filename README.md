@@ -19,6 +19,11 @@
 
 - 进入IoT组织--->点击Repositorie-->点击New Repositories
 
+    <img src="./img/选择组织.png" width="600">
+
+
+    <img src="./img/进入组织.png" width="600">
+
     <img src="./img/流程0.png" width="600">
 
 - 输入新建仓库的参数信息，
