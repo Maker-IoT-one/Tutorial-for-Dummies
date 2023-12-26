@@ -45,12 +45,14 @@
        <img src="./img/创建仓库参数填写示例.png">
 
   - 如果仓库命名错误了，如何更改
-  <img src="./img/更改仓库名1.png">
-  <img src="./img/更改仓库名2.png">
+
+    <img src="./img/更改仓库名1.png">
+    <img src="./img/更改仓库名2.png">
 
   - 如果仓库描述错误了，如何更改
-  <img src="./img/更改仓库描述1.png">
-  <img src="./img/更改仓库描述2.png">
+
+    <img src="./img/更改仓库描述1.png">
+    <img src="./img/更改仓库描述2.png">
 
 
 # 3、迁移组织内仓库到团队
