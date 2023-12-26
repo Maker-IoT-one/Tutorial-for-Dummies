@@ -1,13 +1,13 @@
 # Tutorial-for-Dummies
 > Git日常维护傻瓜式流程
 
-# 1、培训前注意:
+# 1、创建前注意:
 
 1、将自己Github的对外用户名改为自己姓名的拼音，便于识别
 
    <img src="./img/example.png" width="600">
 
-# 2、创建团队内仓库
+# 2、创建组织内仓库
 
 - 进入IoT组织--->点击Repositorie-->点击New Repositories
 
@@ -31,6 +31,7 @@
 
        <img src="./img/创建仓库参数填写示例.png">
 
+# 3、迁移组织内仓库到团队（项目负责人进行，成员无权限，可跳过）
 
 - 进入Github---->进入IoT组织--->点击Teams--->点击个人所在的团队
 
@@ -47,7 +48,7 @@
 - 完成示例
     <img src="./img/完成示例.png" width="600">
 
-# 3、维护仓库
+# 4、维护仓库
 
 - 将仓库克隆到本地
 
