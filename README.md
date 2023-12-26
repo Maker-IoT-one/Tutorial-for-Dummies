@@ -63,6 +63,29 @@
 
 # 4、维护仓库
 
+- 安装Git
+
+  - 使用Winget命令安装(推荐容易，省去了传统点击下一步的安装)
+
+    ```
+    #打开powershell
+    win + s ， 输入powerhsell ，点击即可进入
+
+    #输入安装命令
+    winget install Git.git
+
+    #测试安装是否成功
+    git --version
+    ```
+
+  - 进入官网安装[git点击进入官网](https://git-scm.com/download/win)(备选安装方式)
+
+  - 点击安装git，后续直接下一步就行
+  <img src="./img/git安装.png" width="600">
+
+
+
+
 - 将仓库克隆到本地
 
   ```ps
