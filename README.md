@@ -5,7 +5,15 @@
 
 1、将自己Github的对外用户名改为自己姓名的拼音，便于识别
 
-   <img src="./img/example.png" width="600">
+  - 点击头像进入设置
+
+  <img src="./img/点击头像.png" width="600">
+
+  <img src="./img/进入设置.png" width="600">
+
+  - 修改对外展示姓名并保存
+
+   <img src="./img/public.png" width="600">
 
 # 2、创建组织内仓库
 
@@ -80,7 +88,7 @@
   #工作内容省略
   ......
   ```
-  成功示例
+  成功示例<br>
 
   <img src="./img/进入仓库.png" width="600">
 
